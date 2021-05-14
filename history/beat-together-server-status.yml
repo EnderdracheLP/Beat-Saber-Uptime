@@ -1,7 +1,7 @@
-url: http://master.beattogether.systems/status
+url: $BT_STATUS
 status: up
 code: 200
-responseTime: 97
-lastUpdated: 2021-05-14T16:52:16.871Z
+responseTime: 54
+lastUpdated: 2021-05-14T17:41:29.925Z
 startTime: Fri May 14 2021 16:41:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
