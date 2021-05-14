@@ -7,6 +7,16 @@ sites:
     url: https://beatsaver.com
   - name: BeastSaber
     url: https://bsaber.com
+  - name: BeatMods
+    url: https://beatmods.com/
+  - name: QuestBoard
+    url: https://www.questmodding.com
+  - name: BMBF
+    url: https://bmbf.dev
+  - name: ModelSaber
+    url: https://modelsaber.com
+  - name: ScoreSaber
+    url: https://scoresaber.com
   - name: Official MP Server Status - Steam
     url: https://status.steam.production.mp.beatsaber.com
   - name: Official MP Server Status - Oculus
