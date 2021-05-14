@@ -51,8 +51,8 @@ status-website:
   theme: night
   baseUrl: /Beat-Saber-Uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Beat Saber Upptime
-  introTitle: "**Beat Saber Upptime** Status for Beat Saber Offical and Unoffical Services."
+  name: Beat Saber Uptime
+  introTitle: "**Beat Saber Uptime** Status for Beat Saber Offical and Unoffical Services."
   introMessage: This is the current status of Beat Saber and Beat Saber modding related sites and Services
   navbar:
     - title: Status
