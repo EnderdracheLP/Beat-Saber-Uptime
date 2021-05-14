@@ -19,13 +19,13 @@ sites:
     url: https://scoresaber.com
   - name: Official MP Server Status - Steam
     url: $BS_MP_STEAM
-    __dangerous__body_down: "status":2
+    __dangerous__body_down: '"status":2'
   - name: Official MP Server Status - Oculus
     url: $BS_MP_OCULUS
-    __dangerous__body_down: "status":2
+    __dangerous__body_down: '"status":2'
   - name: Beat Together Server Status
     url: $BT_STATUS
-    __dangerous__body_down: "status":2
+    __dangerous__body_down: '"status":2'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
