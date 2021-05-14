@@ -27,6 +27,9 @@ sites:
   - name: BSMG Wiki
     url: https://bsmg.wiki
     icon: https://bsmg.wiki/favicon.png
+  - name: Beat Saber Legacy
+    url: https://bslegacy.com
+    icon: https://bslegacy.com/img/block.png
   - name: Official MP Server Status - Steam
     url: $BS_MP_STEAM
     icon: https://beatsaber.com/images/favicon/favicon.ico
