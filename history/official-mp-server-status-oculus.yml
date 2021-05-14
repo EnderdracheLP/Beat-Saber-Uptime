@@ -1,7 +1,7 @@
-url: https://status.oculus.production.mp.beatsaber.com
+url: $BS_MP_OCULUS
 status: up
 code: 200
-responseTime: 164
-lastUpdated: 2021-05-14T16:52:16.550Z
+responseTime: 130
+lastUpdated: 2021-05-14T17:41:29.632Z
 startTime: Fri May 14 2021 16:41:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
