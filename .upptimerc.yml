@@ -1,6 +1,7 @@
 # Change these first
 owner: EnderdracheLP # Your GitHub organization or username, where this repository lives
 repo: Beat-Saber-Uptime # The name of this repository
+user-agent: Beat-Saber-Uptime-Checker
 
 sites:
   - name: BeatSaver
@@ -11,12 +12,15 @@ sites:
     url: https://beatmods.com/
   - name: QuestBoard
     url: https://www.questmodding.com
+    icon: https://www.questmodding.com/icon.png
   - name: BMBF
     url: https://bmbf.dev
   - name: ModelSaber
     url: https://modelsaber.com
+    icon: https://modelsaber.com/resources/manifest/icon-512.png
   - name: ScoreSaber
     url: https://scoresaber.com
+    icon: https://scoresaber.com/imports/images/logo.ico
   - name: Official MP Server Status - Steam
     url: $BS_MP_STEAM
     __dangerous__body_down: '"status":2'
@@ -25,13 +29,15 @@ sites:
     __dangerous__body_down: '"status":2'
   - name: Beat Together Server Status
     url: $BT_STATUS
+    icon: https://cdn.discordapp.com/avatars/782351281985552466/3357bcf464313696ae7ac380afbe9fa1.png
     __dangerous__body_down: '"status":2'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  theme: dark
+  themeUrl: https://enderdrachelp.github.io/Beat-Saber-Uptime/custom_dark.css
+  # theme: night
   baseUrl: /Beat-Saber-Uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Beat Saber Upptime
