@@ -1,26 +1,28 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: EnderdracheLP # Your GitHub organization or username, where this repository lives
+repo: Beat-Saber-Uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: BeatSaver
+    url: https://beatsaver.com
+  - name: BeastSaber
+    url: https://bsaber.com
+  - name: Official MP Server Status - Steam
+    url: https://status.steam.production.mp.beatsaber.com
+  - name: Official MP Server Status - Oculus
+    url: https://status.oculus.production.mp.beatsaber.com
+  - name: Beat Together Server Status
+    url: http://master.beattogether.systems/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /Beat-Saber-Uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Beat Saber Upptime
+  introTitle: "**Beat Saber Upptime** Status for Beat Saber Offical and Unoffical Services."
+  introMessage: This is the current status of Beat Saber and Beat Saber modding related sites and Services
   navbar:
     - title: Status
       href: /
