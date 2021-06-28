@@ -4,19 +4,19 @@
     "url": "https://bsaber.com",
     "icon": "https://bsaber.com/wp-content/uploads/2018/07/cropped-Beastsaber-Site-Icon-300x300.png",
     "slug": "beast-saber",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 324,
-    "timeWeek": 234,
-    "timeMonth": 306,
-    "timeYear": 299,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 297,
+    "timeDay": 285,
+    "timeWeek": 229,
+    "timeMonth": 303,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2021-06-28": 0
+      "2021-06-28": 14
     }
   },
   {
