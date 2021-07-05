@@ -1,11 +1,11 @@
 # Change these first
 owner: EnderdracheLP # Your GitHub organization or username, where this repository lives
 repo: Beat-Saber-Uptime # The name of this repository
-user-agent: Beat-Saber-Uptime-Checker (https://github.com/EnderdracheLP/Beat-Saber-Uptime/)
+user-agent: Beat-Saber-Uptime-Checker+(https://github.com/EnderdracheLP/Beat-Saber-Uptime/)
 
 sites:
   - name: BeastSaber
-    url: https://bsaber.com
+    url: https://bsaber.com/getting-started/
     icon: https://bsaber.com/wp-content/uploads/2018/07/cropped-Beastsaber-Site-Icon-300x300.png
   - name: BeatSaver
     url: https://beatsaver.com
