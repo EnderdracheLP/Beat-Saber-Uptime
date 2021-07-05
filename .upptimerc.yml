@@ -63,6 +63,7 @@ status-website:
       
 workflowSchedule:
   responseTime: "0 */12 * * *"
+  uptime: "*/10 * * * *"
   # Update responseTime every 12 hours instead of every day at 23:00
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
