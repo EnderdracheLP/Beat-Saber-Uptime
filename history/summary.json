@@ -4,18 +4,20 @@
     "url": "https://bsaber.com",
     "icon": "https://bsaber.com/wp-content/uploads/2018/07/cropped-Beastsaber-Site-Icon-300x300.png",
     "slug": "beast-saber",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 278,
-    "timeWeek": 393,
-    "timeMonth": 331,
+    "timeDay": 264,
+    "timeWeek": 384,
+    "timeMonth": 329,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "BeatSaver",
