@@ -5,7 +5,7 @@ user-agent: Beat-Saber-Uptime-Checker+(https://github.com/EnderdracheLP/Beat-Sab
 
 sites:
   - name: BeastSaber
-    url: https://bsaber.com/getting-started/
+    url: https://bsaber.com
     icon: https://bsaber.com/wp-content/uploads/2018/07/cropped-Beastsaber-Site-Icon-300x300.png
   - name: BeatSaver
     url: https://beatsaver.com
@@ -63,7 +63,7 @@ status-website:
       
 workflowSchedule:
   responseTime: "0 */12 * * *"
-  uptime: "*/10 * * * *"
+  uptime: "*/15 * * * *"
   # Update responseTime every 12 hours instead of every day at 23:00
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
