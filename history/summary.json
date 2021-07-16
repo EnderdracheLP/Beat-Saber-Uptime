@@ -132,19 +132,19 @@
     "url": "https://bsmg.wiki",
     "icon": "https://bsmg.wiki/favicon.png",
     "slug": "bsmg-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 604,
-    "timeWeek": 512,
-    "timeMonth": 554,
-    "timeYear": 540,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 539,
+    "timeDay": 570,
+    "timeWeek": 509,
+    "timeMonth": 553,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2021-07-16": 0
+      "2021-07-16": 21
     }
   },
   {
