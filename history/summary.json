@@ -132,18 +132,20 @@
     "url": "https://bsmg.wiki",
     "icon": "https://bsmg.wiki/favicon.png",
     "slug": "bsmg-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
-    "timeDay": 677,
-    "timeWeek": 516,
-    "timeMonth": 556,
+    "timeDay": 604,
+    "timeWeek": 512,
+    "timeMonth": 554,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-16": 0
+    }
   },
   {
     "name": "Beat Saber Legacy",
