@@ -47,10 +47,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.enderdrachelp.tk
   # themeUrl: https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/custom_dark.css
   theme: night
-  baseUrl: /Beat-Saber-Uptime
+  # baseUrl: /Beat-Saber-Uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Beat Saber Uptime
   introTitle: "**Beat Saber Uptime** Status for Beat Saber Offical and Unoffical Services."
