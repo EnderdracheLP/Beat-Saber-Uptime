@@ -57,7 +57,7 @@ status-website:
   introMessage: This is the current status of Beat Saber and Beat Saber modding related sites and Services
   navbar:
     - title: Status
-      href: /$REPO
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
