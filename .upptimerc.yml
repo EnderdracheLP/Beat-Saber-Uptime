@@ -58,6 +58,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Main Site
+      href: https://enderdrachelp.tk
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
