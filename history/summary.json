@@ -82,19 +82,17 @@
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 204,
     "timeWeek": 210,
     "timeMonth": 211,
     "timeYear": 202,
-    "dailyMinutesDown": {
-      "2021-09-05": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ModelSaber",
@@ -177,9 +175,9 @@
     "url": "https://questpackages.com/",
     "icon": "https://questpackages.com/favicon.ico",
     "slug": "quest-packages-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -188,7 +186,9 @@
     "timeWeek": 176,
     "timeMonth": 166,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-05": 0
+    }
   },
   {
     "name": "Bobbie.dev",
