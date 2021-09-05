@@ -175,19 +175,19 @@
     "url": "https://questpackages.com/",
     "icon": "https://questpackages.com/favicon.ico",
     "slug": "quest-packages-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 193,
-    "timeWeek": 176,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 163,
+    "timeDay": 156,
+    "timeWeek": 170,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {
-      "2021-09-05": 0
+      "2021-09-05": 19
     }
   },
   {
