@@ -81,19 +81,19 @@
     "url": "https://bmbf.dev",
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 198,
-    "timeDay": 137,
-    "timeWeek": 146,
+    "timeDay": 153,
+    "timeWeek": 148,
     "timeMonth": 179,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2021-10-12": 1
+      "2021-10-12": 13
     }
   },
   {
@@ -159,19 +159,19 @@
     "url": "https://qpackages.com/",
     "icon": "https://favicons.githubusercontent.com/qpackages.com",
     "slug": "q-packages-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 469,
-    "timeWeek": 442,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 463,
+    "timeDay": 456,
+    "timeWeek": 441,
     "timeMonth": 467,
-    "timeYear": 464,
+    "timeYear": 463,
     "dailyMinutesDown": {
-      "2021-10-12": 0
+      "2021-10-12": 13
     }
   },
   {
