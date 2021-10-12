@@ -25,11 +25,11 @@
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BeatSaverLogoCube.png",
     "slug": "beat-saver",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 321,
     "timeDay": 417,
     "timeWeek": 406,
@@ -81,10 +81,10 @@
     "url": "https://bmbf.dev",
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
@@ -92,7 +92,9 @@
     "timeWeek": 146,
     "timeMonth": 179,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 1
+    }
   },
   {
     "name": "ModelSaber",
@@ -157,9 +159,9 @@
     "url": "https://qpackages.com/",
     "icon": "https://favicons.githubusercontent.com/qpackages.com",
     "slug": "q-packages-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,7 +170,9 @@
     "timeWeek": 442,
     "timeMonth": 467,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 0
+    }
   },
   {
     "name": "QuestPackages (Frontend)",
