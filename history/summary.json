@@ -45,36 +45,40 @@
     "url": "https://www.questmodding.com",
     "icon": "https://www.questmodding.com/icon.png",
     "slug": "quest-board",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 718,
     "timeDay": 988,
     "timeWeek": 690,
     "timeMonth": 732,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 6
+    }
   },
   {
     "name": "BeatMods",
     "url": "https://beatmods.com/",
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BeatModsLogo.png",
     "slug": "beat-mods",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 318,
     "timeDay": 263,
     "timeWeek": 290,
     "timeMonth": 323,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 5
+    }
   },
   {
     "name": "BMBF",
@@ -99,28 +103,30 @@
     "url": "https://modelsaber.com",
     "icon": "https://modelsaber.com/resources/manifest/icon-512.png",
     "slug": "model-saber",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 403,
     "timeDay": 283,
     "timeWeek": 324,
     "timeMonth": 349,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "ScoreSaber",
     "url": "https://scoresaber.com",
     "icon": "https://scoresaber.com/imports/images/logo.ico",
     "slug": "score-saber",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1281,
@@ -129,6 +135,7 @@
     "timeMonth": 1139,
     "timeYear": 1281,
     "dailyMinutesDown": {
+      "2021-10-13": 2,
       "2021-08-06": 25
     }
   },
@@ -137,9 +144,9 @@
     "url": "https://bsmg.wiki",
     "icon": "https://bsmg.wiki/favicon.png",
     "slug": "bsmg-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -149,6 +156,7 @@
     "timeMonth": 523,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2021-10-13": 0,
       "2021-07-16": 21
     }
   },
