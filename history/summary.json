@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 262,
-    "timeDay": 1147,
-    "timeWeek": 662,
-    "timeMonth": 411,
+    "timeDay": 207,
+    "timeWeek": 648,
+    "timeMonth": 412,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2021-07-05": 483
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
-    "time": 321,
-    "timeDay": 417,
-    "timeWeek": 406,
-    "timeMonth": 425,
-    "timeYear": 321,
+    "time": 322,
+    "timeDay": 557,
+    "timeWeek": 430,
+    "timeMonth": 429,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2021-08-04": 1220,
       "2021-08-03": 418
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 715,
-    "timeWeek": 627,
-    "timeMonth": 721,
-    "timeYear": 716,
+    "time": 718,
+    "timeDay": 988,
+    "timeWeek": 690,
+    "timeMonth": 732,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   },
   {
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 315,
-    "timeWeek": 294,
-    "timeMonth": 320,
+    "timeDay": 263,
+    "timeWeek": 290,
+    "timeMonth": 323,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -82,19 +82,17 @@
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 198,
-    "timeDay": 153,
-    "timeWeek": 148,
-    "timeMonth": 179,
-    "timeYear": 198,
-    "dailyMinutesDown": {
-      "2021-10-12": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 199,
+    "timeDay": 292,
+    "timeWeek": 176,
+    "timeMonth": 184,
+    "timeYear": 199,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ModelSaber",
@@ -107,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 296,
-    "timeWeek": 336,
-    "timeMonth": 348,
-    "timeYear": 404,
+    "time": 403,
+    "timeDay": 283,
+    "timeWeek": 324,
+    "timeMonth": 349,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   },
   {
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1284,
-    "timeDay": 7337,
-    "timeWeek": 2810,
-    "timeMonth": 1137,
-    "timeYear": 1284,
+    "time": 1281,
+    "timeDay": 773,
+    "timeWeek": 1627,
+    "timeMonth": 1139,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2021-08-06": 25
     }
@@ -145,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 524,
-    "timeDay": 601,
-    "timeWeek": 476,
-    "timeMonth": 515,
-    "timeYear": 524,
+    "time": 525,
+    "timeDay": 675,
+    "timeWeek": 513,
+    "timeMonth": 523,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2021-07-16": 21
     }
@@ -160,19 +158,17 @@
     "icon": "https://favicons.githubusercontent.com/qpackages.com",
     "slug": "q-packages-backend",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 463,
-    "timeDay": 456,
-    "timeWeek": 441,
-    "timeMonth": 467,
-    "timeYear": 463,
-    "dailyMinutesDown": {
-      "2021-10-12": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 465,
+    "timeDay": 527,
+    "timeWeek": 464,
+    "timeMonth": 471,
+    "timeYear": 465,
+    "dailyMinutesDown": {}
   },
   {
     "name": "QuestPackages (Frontend)",
@@ -185,11 +181,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 184,
-    "timeDay": 161,
-    "timeWeek": 184,
+    "time": 182,
+    "timeDay": 120,
+    "timeWeek": 189,
     "timeMonth": 183,
-    "timeYear": 184,
+    "timeYear": 182,
     "dailyMinutesDown": {
       "2021-09-05": 19
     }
@@ -205,11 +201,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 133,
-    "timeWeek": 145,
-    "timeMonth": 160,
-    "timeYear": 166,
+    "time": 167,
+    "timeDay": 207,
+    "timeWeek": 160,
+    "timeMonth": 161,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -221,13 +217,13 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.89%",
-    "time": 495,
-    "timeDay": 389,
-    "timeWeek": 421,
+    "time": 494,
+    "timeDay": 300,
+    "timeWeek": 404,
     "timeMonth": 471,
-    "timeYear": 495,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2021-10-01": 19,
       "2021-09-30": 27,
@@ -251,9 +247,9 @@
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.85%",
     "time": 171,
-    "timeDay": 211,
-    "timeWeek": 161,
-    "timeMonth": 228,
+    "timeDay": 173,
+    "timeWeek": 164,
+    "timeMonth": 229,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2021-10-04": 329
@@ -271,9 +267,9 @@
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.85%",
     "time": 168,
-    "timeDay": 134,
-    "timeWeek": 143,
-    "timeMonth": 213,
+    "timeDay": 154,
+    "timeWeek": 146,
+    "timeMonth": 212,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2021-10-04": 328
@@ -291,9 +287,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 94,
-    "timeWeek": 79,
-    "timeMonth": 87,
+    "timeDay": 170,
+    "timeWeek": 95,
+    "timeMonth": 90,
     "timeYear": 98,
     "dailyMinutesDown": {}
   }
