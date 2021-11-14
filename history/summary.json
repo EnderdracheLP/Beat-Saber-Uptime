@@ -167,11 +167,11 @@
     "icon": "https://favicons.githubusercontent.com/qpackages.com",
     "slug": "q-packages-backend",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.43%",
     "uptimeMonth": "97.57%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 482,
     "timeDay": 459,
     "timeWeek": 510,
@@ -292,10 +292,10 @@
     "url": "$BT_STATUS",
     "icon": "https://cdn.discordapp.com/avatars/782351281985552466/3357bcf464313696ae7ac380afbe9fa1.png",
     "slug": "beat-together-server-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
@@ -303,6 +303,8 @@
     "timeWeek": 134,
     "timeMonth": 124,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-14": 1
+    }
   }
 ]
