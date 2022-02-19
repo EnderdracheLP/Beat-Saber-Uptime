@@ -30,9 +30,6 @@ sites:
     icon: https://bsmg.wiki/favicon.png
   - name: QPackages (Backend)
     url: https://qpackages.com/
-  - name: QuestPackages (Frontend)
-    url: https://questpackages.com/
-    icon: https://questpackages.com/favicon.ico
   - name: Bobbie.dev
     url: https://bobbie.dev/
     icon: https://bobbie.dev/favicon.ico
