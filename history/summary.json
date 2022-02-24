@@ -87,19 +87,19 @@
     "url": "https://bmbf.dev",
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 157,
-    "timeWeek": 193,
-    "timeMonth": 193,
+    "timeDay": 193,
+    "timeWeek": 203,
+    "timeMonth": 196,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-02-24": 23
+      "2022-02-24": 42
     }
   },
   {
