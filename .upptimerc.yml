@@ -55,14 +55,14 @@ status-website:
   # cname: status.enderdrachelp.tk
   # themeUrl: https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/custom_dark.css
   theme: night
-  baseUrl: /Beat-Saber-Uptime
+  baseUrl: /Beat-Saber-Uptime/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Beat Saber Uptime
   introTitle: "**Beat Saber Uptime** Status for Beat Saber Official and Unofficial Services."
   introMessage: This is the current status of Beat Saber and Beat Saber modding related sites and Services
   navbar:
     - title: Status
-      href: /
+      href: /Beat-Saber-Uptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
