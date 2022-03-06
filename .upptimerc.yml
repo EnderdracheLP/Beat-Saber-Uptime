@@ -52,10 +52,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.enderdrachelp.tk
+  # cname: status.enderdrachelp.tk
   # themeUrl: https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/custom_dark.css
   theme: night
-  baseUrl: /
+  baseUrl: /Beat-Saber-Uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Beat Saber Uptime
   introTitle: "**Beat Saber Uptime** Status for Beat Saber Official and Unofficial Services."
@@ -63,8 +63,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Main Site
-      href: https://enderdrachelp.tk
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
