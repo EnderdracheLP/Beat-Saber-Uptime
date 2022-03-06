@@ -1,6 +1,6 @@
-# [📈 Live Status](https://EnderdracheLP.github.io/Beat-Saber-Uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://EnderdracheLP.github.io/Beat-Saber-Uptime/): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [EnderdracheLP](https://EnderdracheLP.github.io/Beat-Saber-Uptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [EnderdracheLP](https://EnderdracheLP.github.io/Beat-Saber-Uptime/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/EnderdracheLP/Beat-Saber-Uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/EnderdracheLP/Beat-Saber-Uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/EnderdracheLP/Beat-Saber-Uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/EnderdracheLP/Beat-Saber-Uptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -33,10 +33,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://EnderdracheLP.github.io/Beat-Saber-Uptime)
+[**Visit our status website →**](https://EnderdracheLP.github.io/Beat-Saber-Uptime/)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [EnderdracheLP](https://EnderdracheLP.github.io/Beat-Saber-Uptime)
+- Code: [MIT](./LICENSE) © [EnderdracheLP](https://EnderdracheLP.github.io/Beat-Saber-Uptime/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
