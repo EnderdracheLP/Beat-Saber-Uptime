@@ -171,9 +171,9 @@
     "url": "https://qpackages.com/",
     "icon": "https://favicons.githubusercontent.com/qpackages.com",
     "slug": "q-packages-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
@@ -183,6 +183,7 @@
     "timeMonth": 594,
     "timeYear": 516,
     "dailyMinutesDown": {
+      "2022-03-08": 0,
       "2021-11-09": 491,
       "2021-11-08": 575
     }
@@ -281,17 +282,15 @@
     "slug": "beat-together-server-status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 179,
     "timeWeek": 162,
     "timeMonth": 150,
     "timeYear": 113,
-    "dailyMinutesDown": {
-      "2022-03-08": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
