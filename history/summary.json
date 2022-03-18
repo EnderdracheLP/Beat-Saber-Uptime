@@ -279,19 +279,19 @@
     "url": "$BT_STATUS",
     "icon": "https://cdn.discordapp.com/avatars/782351281985552466/3357bcf464313696ae7ac380afbe9fa1.png",
     "slug": "beat-together-server-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 48,
-    "timeWeek": 100,
-    "timeMonth": 126,
+    "timeDay": 106,
+    "timeWeek": 108,
+    "timeMonth": 127,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2022-03-18": 0
+      "2022-03-18": 28
     }
   }
 ]
