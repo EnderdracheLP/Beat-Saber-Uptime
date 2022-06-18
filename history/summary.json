@@ -6,9 +6,9 @@
     "slug": "beast-saber",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 354,
     "timeDay": 373,
@@ -16,7 +16,7 @@
     "timeMonth": 470,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2022-06-18": 0,
+      "2022-06-18": 27,
       "2022-06-16": 23,
       "2021-07-05": 483
     }
@@ -92,10 +92,10 @@
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 215,
     "timeDay": 208,
@@ -103,7 +103,7 @@
     "timeMonth": 202,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2022-06-18": 0,
+      "2022-06-18": 27,
       "2022-06-16": 23,
       "2022-05-12": 19,
       "2022-02-24": 42
