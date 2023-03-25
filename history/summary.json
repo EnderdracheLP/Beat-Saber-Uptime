@@ -421,19 +421,19 @@
     "url": "$BS_MP_STEAM",
     "icon": "https://beatsaber.com/images/favicon/favicon.ico",
     "slug": "official-mp-server-status-steam",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 160,
     "timeDay": 120,
-    "timeWeek": 135,
-    "timeMonth": 141,
+    "timeWeek": 134,
+    "timeMonth": 140,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2023-03-25": 1
+      "2023-03-25": 28
     }
   },
   {
