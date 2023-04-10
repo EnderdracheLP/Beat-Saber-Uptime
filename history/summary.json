@@ -13,7 +13,7 @@
     "time": 405,
     "timeDay": 130,
     "timeWeek": 208,
-    "timeMonth": 250,
+    "timeMonth": 251,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2023-01-19": 84,
@@ -39,7 +39,7 @@
     "time": 546,
     "timeDay": 383,
     "timeWeek": 437,
-    "timeMonth": 469,
+    "timeMonth": 471,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2022-11-10": 23,
@@ -65,7 +65,7 @@
     "time": 730,
     "timeDay": 497,
     "timeWeek": 576,
-    "timeMonth": 638,
+    "timeMonth": 642,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2022-11-14": 234,
@@ -87,7 +87,7 @@
     "time": 316,
     "timeDay": 537,
     "timeWeek": 325,
-    "timeMonth": 374,
+    "timeMonth": 377,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2022-11-05": 516,
@@ -111,7 +111,7 @@
     "time": 213,
     "timeDay": 78,
     "timeWeek": 137,
-    "timeMonth": 175,
+    "timeMonth": 177,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2022-12-19": 118,
@@ -222,7 +222,7 @@
     "time": 254,
     "timeDay": 156,
     "timeWeek": 234,
-    "timeMonth": 229,
+    "timeMonth": 230,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-12-08": 30,
@@ -247,7 +247,7 @@
     "time": 604,
     "timeDay": 717,
     "timeWeek": 662,
-    "timeMonth": 679,
+    "timeMonth": 680,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2023-01-29": 137,
@@ -273,7 +273,7 @@
     "time": 641,
     "timeDay": 546,
     "timeWeek": 540,
-    "timeMonth": 552,
+    "timeMonth": 553,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2023-03-07": 243,
@@ -304,7 +304,7 @@
     "time": 177,
     "timeDay": 85,
     "timeWeek": 121,
-    "timeMonth": 228,
+    "timeMonth": 230,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2022-09-11": 22,
@@ -327,7 +327,7 @@
     "time": 334,
     "timeDay": 74,
     "timeWeek": 86,
-    "timeMonth": 143,
+    "timeMonth": 144,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2022-08-21": 108,
@@ -345,18 +345,18 @@
     "icon": "https://oculusdb.rui2015.me/favicon.ico",
     "slug": "oculus-db",
     "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "98.42%",
+    "uptime": "98.41%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "98.41%",
     "time": 1074,
     "timeDay": 964,
     "timeWeek": 1747,
-    "timeMonth": 1194,
+    "timeMonth": 1195,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2023-04-10": 1,
+      "2023-04-10": 32,
       "2023-04-06": 75,
       "2023-03-31": 806,
       "2023-03-30": 341,
@@ -429,7 +429,7 @@
     "time": 159,
     "timeDay": 129,
     "timeWeek": 123,
-    "timeMonth": 142,
+    "timeMonth": 143,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2023-03-25": 28
@@ -449,7 +449,7 @@
     "time": 157,
     "timeDay": 185,
     "timeWeek": 148,
-    "timeMonth": 138,
+    "timeMonth": 139,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -467,7 +467,7 @@
     "time": 140,
     "timeDay": 241,
     "timeWeek": 132,
-    "timeMonth": 137,
+    "timeMonth": 139,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2023-01-13": 18,
