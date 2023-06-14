@@ -103,7 +103,7 @@
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
     "status": "up",
-    "uptime": "92.85%",
+    "uptime": "92.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -338,10 +338,10 @@
     "url": "https://oculusdb.rui2015.me/",
     "icon": "https://oculusdb.rui2015.me/favicon.ico",
     "slug": "oculus-db",
-    "status": "up",
+    "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "98.52%",
     "time": 1093,
@@ -350,6 +350,7 @@
     "timeMonth": 1133,
     "timeYear": 1105,
     "dailyMinutesDown": {
+      "2023-06-14": 1,
       "2023-05-25": 153,
       "2023-05-18": 207,
       "2023-05-17": 787,
@@ -407,8 +408,7 @@
       "2022-11-23": 43,
       "2022-11-20": 292,
       "2022-11-12": 291,
-      "2022-11-05": 57,
-      "2022-11-04": 15
+      "2022-11-05": 57
     }
   },
   {
