@@ -385,10 +385,10 @@
     "url": "$BS_MP_STEAM",
     "icon": "https://beatsaber.com/images/favicon/favicon.ico",
     "slug": "official-mp-server-status-steam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 161,
@@ -397,6 +397,7 @@
     "timeMonth": 177,
     "timeYear": 159,
     "dailyMinutesDown": {
+      "2023-07-04": 1,
       "2023-03-25": 28
     }
   },
@@ -405,10 +406,10 @@
     "url": "$BS_MP_OCULUS",
     "icon": "https://beatsaber.com/images/favicon/favicon.ico",
     "slug": "official-mp-server-status-oculus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
@@ -416,7 +417,9 @@
     "timeWeek": 152,
     "timeMonth": 158,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-04": 1
+    }
   },
   {
     "name": "Beat Together Server Status",
