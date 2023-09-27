@@ -293,18 +293,19 @@
     "url": "https://oculusdb.rui2015.me/",
     "icon": "https://oculusdb.rui2015.me/favicon.ico",
     "slug": "oculus-db",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.52%",
-    "time": 1058,
-    "timeDay": 459,
-    "timeWeek": 461,
-    "timeMonth": 468,
-    "timeYear": 1098,
+    "time": 1057,
+    "timeDay": 407,
+    "timeWeek": 451,
+    "timeMonth": 466,
+    "timeYear": 1097,
     "dailyMinutesDown": {
+      "2023-09-27": 1,
       "2023-09-03": 18,
       "2023-06-30": 40,
       "2023-05-25": 153,
@@ -363,8 +364,7 @@
       "2022-11-27": 33,
       "2022-11-23": 43,
       "2022-11-20": 292,
-      "2022-11-12": 291,
-      "2022-11-05": 34
+      "2022-11-12": 291
     }
   },
   {
