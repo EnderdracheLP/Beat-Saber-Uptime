@@ -26,9 +26,9 @@
     "url": "https://beatsaver.com",
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BeatSaverLogoCube.png",
     "slug": "beat-saver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 497,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2023-09-12": 17
     }
   },
