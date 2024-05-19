@@ -1,7 +1,7 @@
 url: $BS_PRODB
-status: down
-code: 500
-responseTime: 40
-lastUpdated: 2024-05-19T20:42:36.849Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2024-05-19T21:08:43.199Z
 startTime: 2023-07-13T18:20:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
