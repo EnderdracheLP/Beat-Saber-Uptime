@@ -27,9 +27,9 @@
     "url": "https://beatsaver.com",
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BeatSaverLogoCube.png",
     "slug": "beat-saver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -39,6 +39,7 @@
     "timeMonth": 478,
     "timeYear": 516,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-02-09": 36,
       "2023-09-12": 17
     }
@@ -89,7 +90,7 @@
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
     "status": "up",
-    "uptime": "95.07%",
+    "uptime": "95.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -210,18 +211,18 @@
     "icon": "https://bslegacy.com/img/block.png",
     "slug": "beat-saber-legacy",
     "status": "down",
-    "uptime": "99.76%",
+    "uptime": "99.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.85%",
-    "uptimeMonth": "93.52%",
-    "uptimeYear": "99.46%",
+    "uptimeWeek": "67.95%",
+    "uptimeMonth": "92.62%",
+    "uptimeYear": "99.39%",
     "time": 140,
     "timeDay": 75,
     "timeWeek": 145,
     "timeMonth": 110,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-05-22": 61,
+      "2024-05-22": 455,
       "2024-05-21": 1440,
       "2024-05-20": 1336
     }
