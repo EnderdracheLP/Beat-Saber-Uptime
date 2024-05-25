@@ -33,9 +33,6 @@ sites:
   - name: Bobbie.dev
     url: https://bobbie.dev/
     icon: https://bobbie.dev/favicon.ico
-  - name: Beat Saber Legacy
-    url: https://bslegacy.com
-    icon: https://bslegacy.com/img/block.png
   - name: OculusDB
     url: https://oculusdb.rui2015.me/
     icon: https://oculusdb.rui2015.me/favicon.ico
