@@ -133,18 +133,20 @@
     "url": "https://scoresaber.com",
     "icon": "https://scoresaber.com/imports/images/logo.ico",
     "slug": "score-saber",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 305,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "time": 281,
+    "timeDay": 2030,
+    "timeWeek": 642,
+    "timeMonth": 378,
+    "timeYear": 286,
+    "dailyMinutesDown": {
+      "2024-09-02": 0
+    }
   },
   {
     "name": "BSMG Wiki",
