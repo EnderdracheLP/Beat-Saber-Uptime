@@ -69,9 +69,9 @@
     "url": "https://beatmods.com/",
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BeatModsLogo.png",
     "slug": "beat-mods",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -81,6 +81,7 @@
     "timeMonth": 432,
     "timeYear": 413,
     "dailyMinutesDown": {
+      "2024-10-05": 0,
       "2024-03-05": 359,
       "2023-11-05": 289
     }
