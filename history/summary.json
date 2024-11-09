@@ -111,18 +111,19 @@
     "url": "https://modelsaber.com",
     "icon": "https://modelsaber.com/resources/manifest/icon-512.png",
     "slug": "model-saber",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
-    "timeDay": 475,
-    "timeWeek": 431,
+    "timeDay": 458,
+    "timeWeek": 430,
     "timeMonth": 414,
     "timeYear": 432,
     "dailyMinutesDown": {
+      "2024-11-09": 0,
       "2023-12-15": 15
     }
   },
