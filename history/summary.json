@@ -130,19 +130,19 @@
     "url": "https://scoresaber.com",
     "icon": "https://scoresaber.com/imports/images/logo.ico",
     "slug": "score-saber",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 379,
-    "timeWeek": 328,
-    "timeMonth": 319,
+    "timeDay": 312,
+    "timeWeek": 318,
+    "timeMonth": 316,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-12-04": 0
+      "2024-12-04": 25
     }
   },
   {
