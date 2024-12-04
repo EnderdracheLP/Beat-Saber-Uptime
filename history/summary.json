@@ -130,9 +130,9 @@
     "url": "https://scoresaber.com",
     "icon": "https://scoresaber.com/imports/images/logo.ico",
     "slug": "score-saber",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 328,
     "timeMonth": 319,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 0
+    }
   },
   {
     "name": "BSMG Wiki",
