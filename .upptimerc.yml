@@ -10,9 +10,6 @@ sites:
   - name: BeatSaver
     url: https://beatsaver.com
     icon: https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BeatSaverLogoCube.png
-  - name: QuestBoard
-    url: https://www.questmodding.com
-    icon: https://www.questmodding.com/icon.png
   - name: BeatMods
     url: https://beatmods.com/
     icon: https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BeatModsLogo.png
