@@ -1,7 +1,7 @@
 url: $BS_PRODA
-status: down
-code: 500
-responseTime: 330
-lastUpdated: 2025-03-25T13:45:49.901Z
+status: up
+code: 200
+responseTime: 869
+lastUpdated: 2025-03-25T13:53:12.312Z
 startTime: 2023-07-13T18:20:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
