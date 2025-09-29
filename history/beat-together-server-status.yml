@@ -1,7 +1,7 @@
 url: $BT_STATUS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-29T20:30:11.550Z
+status: up
+code: 200
+responseTime: 124
+lastUpdated: 2025-09-29T20:39:42.853Z
 startTime: 2021-05-14T16:41:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
