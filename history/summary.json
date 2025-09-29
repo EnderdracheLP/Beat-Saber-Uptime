@@ -85,7 +85,7 @@
     "timeMonth": 283,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-09-29": 1231,
+      "2025-09-29": 1240,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -423,19 +423,19 @@
     "url": "$BT_STATUS",
     "icon": "https://cdn.discordapp.com/avatars/782351281985552466/3357bcf464313696ae7ac380afbe9fa1.png",
     "slug": "beat-together-server-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 186,
-    "timeDay": 282,
-    "timeWeek": 190,
-    "timeMonth": 195,
+    "timeDay": 229,
+    "timeWeek": 186,
+    "timeMonth": 194,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-09-29": 1,
+      "2025-09-29": 10,
       "2025-02-08": 35
     }
   }
