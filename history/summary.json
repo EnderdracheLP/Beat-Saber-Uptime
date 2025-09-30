@@ -85,7 +85,7 @@
     "timeMonth": 279,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-09-30": 278,
+      "2025-09-30": 286,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -325,19 +325,19 @@
     "url": "https://qpackages.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qpackages.com.ico",
     "slug": "q-packages-backend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 786,
-    "timeDay": 863,
-    "timeWeek": 879,
-    "timeMonth": 890,
-    "timeYear": 793,
+    "time": 787,
+    "timeDay": 942,
+    "timeWeek": 893,
+    "timeMonth": 893,
+    "timeYear": 794,
     "dailyMinutesDown": {
-      "2025-09-30": 0
+      "2025-09-30": 8
     }
   },
   {
