@@ -74,18 +74,18 @@
     "icon": "https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png",
     "slug": "bmbf",
     "status": "down",
-    "uptime": "85.79%",
+    "uptime": "85.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.62%",
+    "uptimeYear": "52.58%",
     "time": 231,
     "timeDay": 255,
     "timeWeek": 279,
     "timeMonth": 279,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-09-30": 81,
+      "2025-09-30": 278,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -325,9 +325,9 @@
     "url": "https://qpackages.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qpackages.com.ico",
     "slug": "q-packages-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -336,7 +336,9 @@
     "timeWeek": 879,
     "timeMonth": 890,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-30": 0
+    }
   },
   {
     "name": "Bobbie.dev",
