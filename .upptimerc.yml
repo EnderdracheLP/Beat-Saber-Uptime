@@ -13,9 +13,12 @@ sites:
   - name: BeatMods
     url: https://beatmods.com/
     icon: https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BeatModsLogo.png
-  - name: ModsBeforeFriday!
+  - name: Quest Beat Saber Mods
     url: https://mods.bsquest.xyz
-    icon: https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/ModsBeforeFriday.png
+    icon: https://mods.bsquest.xyz/favicon.ico
+  - name: ModsBeforeFriday!
+    url: https://mbf.bsquest.xyz
+    icon: https://mbf.bsquest.xyz/favicon.png
   - name: BMBF
     url: https://bmbf.dev
     icon: https://raw.githubusercontent.com/EnderdracheLP/Beat-Saber-Uptime/master/assets/BMBF_Icon.png
