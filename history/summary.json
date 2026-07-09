@@ -165,17 +165,17 @@
     "url": "https://qpackages.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qpackages.com.ico",
     "slug": "q-packages-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "88.96%",
     "uptimeYear": "98.76%",
-    "time": 871,
-    "timeDay": 757,
-    "timeWeek": 854,
-    "timeMonth": 752,
-    "timeYear": 882,
+    "time": 913,
+    "timeDay": 13565,
+    "timeWeek": 3409,
+    "timeMonth": 1362,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2025-10-17": 944,
       "2025-10-16": 562,
@@ -184,7 +184,8 @@
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
-      "2026-06-21": 167
+      "2026-06-21": 167,
+      "2026-07-09": 1
     }
   },
   {
