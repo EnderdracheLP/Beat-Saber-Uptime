@@ -13,7 +13,7 @@
     "time": 190,
     "timeDay": 139,
     "timeWeek": 146,
-    "timeMonth": 146,
+    "timeMonth": 145,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-11-18": 128
@@ -33,7 +33,7 @@
     "time": 509,
     "timeDay": 503,
     "timeWeek": 494,
-    "timeMonth": 489,
+    "timeMonth": 488,
     "timeYear": 511,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 401,
     "timeDay": 305,
     "timeWeek": 333,
-    "timeMonth": 445,
+    "timeMonth": 446,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2025-09-29": 18,
@@ -112,7 +112,7 @@
     "time": 304,
     "timeDay": 240,
     "timeWeek": 243,
-    "timeMonth": 302,
+    "timeMonth": 303,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2025-10-09": 20,
@@ -135,7 +135,7 @@
     "time": 486,
     "timeDay": 891,
     "timeWeek": 908,
-    "timeMonth": 760,
+    "timeMonth": 757,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-11-18": 90,
@@ -156,7 +156,7 @@
     "time": 297,
     "timeDay": 232,
     "timeWeek": 191,
-    "timeMonth": 227,
+    "timeMonth": 226,
     "timeYear": 295,
     "dailyMinutesDown": {}
   },
@@ -169,12 +169,12 @@
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.41%",
+    "uptimeMonth": "87.99%",
     "uptimeYear": "98.57%",
     "time": 916,
     "timeDay": 822,
     "timeWeek": 930,
-    "timeMonth": 1382,
+    "timeMonth": 1402,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2025-10-17": 944,
@@ -203,7 +203,7 @@
     "time": 207,
     "timeDay": 202,
     "timeWeek": 191,
-    "timeMonth": 183,
+    "timeMonth": 182,
     "timeYear": 206,
     "dailyMinutesDown": {
       "2025-11-18": 167
@@ -265,7 +265,7 @@
     "time": 104,
     "timeDay": 116,
     "timeWeek": 142,
-    "timeMonth": 155,
+    "timeMonth": 154,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2025-10-28": 25
@@ -276,19 +276,20 @@
     "url": "$BT_STATUS",
     "icon": "https://cdn.discordapp.com/avatars/782351281985552466/3357bcf464313696ae7ac380afbe9fa1.png",
     "slug": "beat-together-server-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 190,
     "timeDay": 151,
     "timeWeek": 192,
-    "timeMonth": 251,
+    "timeMonth": 249,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2026-03-04": 259
+      "2026-03-04": 259,
+      "2026-07-22": 1
     }
   }
 ]
