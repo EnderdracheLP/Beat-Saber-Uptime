@@ -13,7 +13,7 @@
     "time": 188,
     "timeDay": 145,
     "timeWeek": 165,
-    "timeMonth": 169,
+    "timeMonth": 171,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-11-18": 128
@@ -33,7 +33,7 @@
     "time": 510,
     "timeDay": 560,
     "timeWeek": 501,
-    "timeMonth": 505,
+    "timeMonth": 508,
     "timeYear": 513,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "time": 135,
     "timeDay": 175,
     "timeWeek": 145,
-    "timeMonth": 158,
+    "timeMonth": 159,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -112,7 +112,7 @@
     "time": 305,
     "timeDay": 231,
     "timeWeek": 242,
-    "timeMonth": 255,
+    "timeMonth": 256,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2025-10-09": 20,
@@ -165,17 +165,17 @@
     "url": "https://qpackages.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qpackages.com.ico",
     "slug": "q-packages-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.57%",
-    "time": 920,
-    "timeDay": 866,
-    "timeWeek": 848,
-    "timeMonth": 855,
-    "timeYear": 937,
+    "time": 941,
+    "timeDay": 7171,
+    "timeWeek": 2110,
+    "timeMonth": 1156,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2025-10-17": 944,
       "2025-10-16": 562,
@@ -186,7 +186,8 @@
       "2026-06-22": 1440,
       "2026-06-21": 167,
       "2026-07-10": 89,
-      "2026-07-09": 912
+      "2026-07-09": 912,
+      "2026-08-21": 1
     }
   },
   {
@@ -223,7 +224,7 @@
     "time": 538,
     "timeDay": 496,
     "timeWeek": 616,
-    "timeMonth": 494,
+    "timeMonth": 495,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2025-11-18": 117,
@@ -265,7 +266,7 @@
     "time": 109,
     "timeDay": 131,
     "timeWeek": 120,
-    "timeMonth": 167,
+    "timeMonth": 168,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2025-10-28": 25
@@ -285,7 +286,7 @@
     "time": 188,
     "timeDay": 196,
     "timeWeek": 188,
-    "timeMonth": 155,
+    "timeMonth": 154,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2026-03-04": 259,
