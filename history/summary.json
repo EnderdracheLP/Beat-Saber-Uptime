@@ -33,7 +33,7 @@
     "time": 509,
     "timeDay": 541,
     "timeWeek": 486,
-    "timeMonth": 491,
+    "timeMonth": 492,
     "timeYear": 503,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "time": 156,
     "timeDay": 181,
     "timeWeek": 177,
-    "timeMonth": 205,
+    "timeMonth": 206,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -112,7 +112,7 @@
     "time": 315,
     "timeDay": 637,
     "timeWeek": 494,
-    "timeMonth": 363,
+    "timeMonth": 365,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2025-11-18": 117,
@@ -139,7 +139,7 @@
     "time": 572,
     "timeDay": 702,
     "timeWeek": 695,
-    "timeMonth": 797,
+    "timeMonth": 798,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-11-18": 90,
@@ -161,8 +161,8 @@
     "time": 277,
     "timeDay": 240,
     "timeWeek": 243,
-    "timeMonth": 218,
-    "timeYear": 254,
+    "timeMonth": 217,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -210,7 +210,7 @@
     "time": 218,
     "timeDay": 279,
     "timeWeek": 454,
-    "timeMonth": 330,
+    "timeMonth": 331,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-11-18": 167
@@ -221,16 +221,16 @@
     "url": "https://oculusdb.rui2015.me/",
     "icon": "https://oculusdb.rui2015.me/favicon.ico",
     "slug": "oculus-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.88%",
     "time": 615,
-    "timeDay": 22575,
-    "timeWeek": 3570,
-    "timeMonth": 1601,
+    "timeDay": 15226,
+    "timeWeek": 3367,
+    "timeMonth": 1603,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2025-11-18": 117,
@@ -239,7 +239,8 @@
       "2026-03-16": 42,
       "2026-07-13": 166,
       "2026-10-01": 169,
-      "2026-10-23": 74
+      "2026-10-23": 74,
+      "2026-11-03": 1
     }
   },
   {
@@ -256,7 +257,7 @@
     "time": 263,
     "timeDay": 216,
     "timeWeek": 201,
-    "timeMonth": 180,
+    "timeMonth": 181,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -275,7 +276,7 @@
     "timeDay": 120,
     "timeWeek": 95,
     "timeMonth": 87,
-    "timeYear": 104,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -292,7 +293,7 @@
     "time": 190,
     "timeDay": 224,
     "timeWeek": 180,
-    "timeMonth": 225,
+    "timeMonth": 227,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-03-04": 259,
