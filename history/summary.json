@@ -132,10 +132,10 @@
     "slug": "score-saber",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.96%",
     "time": 571,
     "timeDay": 809,
     "timeWeek": 703,
@@ -144,7 +144,7 @@
     "dailyMinutesDown": {
       "2025-11-18": 90,
       "2025-12-03": 36,
-      "2026-11-03": 1
+      "2026-11-03": 60
     }
   },
   {
