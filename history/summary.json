@@ -33,7 +33,7 @@
     "time": 509,
     "timeDay": 540,
     "timeWeek": 498,
-    "timeMonth": 494,
+    "timeMonth": 495,
     "timeYear": 503,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 406,
     "timeDay": 464,
     "timeWeek": 443,
-    "timeMonth": 387,
+    "timeMonth": 389,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2025-11-18": 129,
@@ -76,7 +76,7 @@
     "time": 157,
     "timeDay": 140,
     "timeWeek": 191,
-    "timeMonth": 199,
+    "timeMonth": 200,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "time": 142,
     "timeDay": 171,
     "timeWeek": 167,
-    "timeMonth": 180,
+    "timeMonth": 181,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -112,7 +112,7 @@
     "time": 317,
     "timeDay": 640,
     "timeWeek": 545,
-    "timeMonth": 412,
+    "timeMonth": 417,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2025-11-18": 117,
@@ -139,7 +139,7 @@
     "time": 576,
     "timeDay": 803,
     "timeWeek": 713,
-    "timeMonth": 784,
+    "timeMonth": 785,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2025-11-18": 90,
@@ -161,7 +161,7 @@
     "time": 277,
     "timeDay": 136,
     "timeWeek": 235,
-    "timeMonth": 224,
+    "timeMonth": 222,
     "timeYear": 248,
     "dailyMinutesDown": {}
   },
@@ -179,7 +179,7 @@
     "time": 947,
     "timeDay": 929,
     "timeWeek": 895,
-    "timeMonth": 918,
+    "timeMonth": 919,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2025-11-18": 151,
@@ -210,7 +210,7 @@
     "time": 218,
     "timeDay": 277,
     "timeWeek": 255,
-    "timeMonth": 334,
+    "timeMonth": 336,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-11-18": 167
@@ -223,14 +223,14 @@
     "slug": "oculus-db",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.75%",
     "time": 615,
     "timeDay": 353,
     "timeWeek": 3232,
-    "timeMonth": 1547,
+    "timeMonth": 1564,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2025-11-18": 117,
@@ -242,7 +242,7 @@
       "2026-10-23": 74,
       "2026-11-04": 131,
       "2026-11-03": 435,
-      "2026-11-09": 1
+      "2026-11-09": 86
     }
   },
   {
@@ -259,7 +259,7 @@
     "time": 260,
     "timeDay": 179,
     "timeWeek": 165,
-    "timeMonth": 183,
+    "timeMonth": 184,
     "timeYear": 245,
     "dailyMinutesDown": {}
   },
@@ -277,7 +277,7 @@
     "time": 105,
     "timeDay": 75,
     "timeWeek": 88,
-    "timeMonth": 90,
+    "timeMonth": 89,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -295,7 +295,7 @@
     "time": 190,
     "timeDay": 165,
     "timeWeek": 193,
-    "timeMonth": 228,
+    "timeMonth": 231,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-03-04": 259,
